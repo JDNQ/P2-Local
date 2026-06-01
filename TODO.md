@@ -1,0 +1,5 @@
+- [ ] Inspect current create-product flow in frontend (ProductForm)
+- [x] Implement small success/failure message shown on top of the form after submit
+- [ ] Handle non-2xx responses and network errors
+- [ ] Optional: add minor UI states (colors, disable during submitting)
+- [ ] Quick manual test: valid submit => success, invalid submit => failure
